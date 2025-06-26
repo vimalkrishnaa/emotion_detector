@@ -16,11 +16,15 @@ A full-stack web application for emotion detection using a fine-tuned BERT model
    ```bash
    pip install -r requirements.txt
    ```
-3. Train the model (optional, pre-trained model included):
+3. Download the pre-trained model:
+   [Download the pre-trained model from Google Drive](https://drive.google.com/file/d/1von36xmWwhaVcajE0UvMgqkDrmYrbYcT/view?usp=sharing)
+   After downloading, extract the contents and place them in the saved_model/ directory.
+   
+4. Train the model (optional, pre-trained model included):
    ```bash
    python bert_train.py
    ```
-4. Start the API server:
+5. Start the API server:
    ```bash
    python app.py
    ```
