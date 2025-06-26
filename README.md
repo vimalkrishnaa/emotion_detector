@@ -2,6 +2,11 @@
 
 A full-stack web application for emotion detection using a fine-tuned BERT model. Enter any sentence and instantly discover if it expresses sadness, joy, love, anger, fear, or surprise!
 
+## 🎥 Video Demo
+
+👉 [Watch the video demo on Google Drive](https://drive.google.com/file/d/1YCYIH7TRZYQ0BzxRSjW70VnV4lJPonEr/view?usp=sharing)
+
+
 ## Features
 - BERT-based emotion classification (6 emotions)
 - Modern, immersive React frontend with dynamic visuals
